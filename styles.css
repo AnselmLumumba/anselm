@@ -4,7 +4,7 @@
 }
 body{
     position: relative;
-    background:rgb(0, 0, 128);
+    background:rgb(40, 40, 43);
     align-items: center;
 }
 .dark .navbar-toggler{
